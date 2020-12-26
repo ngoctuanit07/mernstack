@@ -9,3 +9,7 @@ C
 client/src/index.js,7\6\76cbb38a5cef42611c7af13985f39248682f4aa1
 ?
 server/index.js,e\1\e1a504bc36c43a5b06e18911fe39381356468d7f
+F
+server/routes/posts.js,4\6\468926bda7959904fb71cbebe62d72a0fbd839e6
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
